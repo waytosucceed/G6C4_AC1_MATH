@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Multiply 5,000 by 2,000.",
+    "options": [
+      "10,000,000",
+      "1,000,000",
+      "100,000",
+      "500,000"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which of these multiplications gives 360,000?",
+    "options": [
+      "36 × 10,000",
+      "3,600 × 100",
+      "360 × 1,000",
+      "3,600 × 10"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which number should replace the blank to complete the expanded form multiplication?<br>58 × 6 = (50 × 6) + (_ × 6)",
+    "options": [
+      "58",
+      "5",
+      "8",
+      "6"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which of the following calculations is incorrect?",
+    "options": [
+      "31 × 42 = 1,302",
+      "25 × 18 = 540",
+      "64 × 21 = 1,344",
+      "37 × 15 = 555"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "What is 45 times 678?",
+    "options": [
+      "87,790",
+      "29,753",
+      "68,963",
+      "30,510"
+    ],
+    "correct": 3
+  }
+]
